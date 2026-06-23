@@ -5,7 +5,6 @@ retrieves institutional knowledge, generates maintenance documentation,
 and preserves tribal knowledge — through autonomous reasoning and tool
 execution, not a chatbot wrapper.
 
-Built for Buildathon Dallas, June 18–19, 2026.
 
 ## The problem (why this exists)
 

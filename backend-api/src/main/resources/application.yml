@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/factoryflow
-    username: postgres
-    password: Momdad@123
+    url: ${DATABASE_URL:jdbc:postgresql://localhost:5432/factoryflow}
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:Momdad@123}
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
@@ -14,11 +14,14 @@ spring:
         format_sql: true
 
 server:
-  port: 8080
+  port: ${PORT:8080}
 
 agent:
   service:
-    url: http://localhost:8000
+    url: ${AGENT_SERVICE_URL:http://localhost:8000}
+
+frontend:
+  url: ${FRONTEND_URL:http://localhost:5173}
 
 logging:
   level:

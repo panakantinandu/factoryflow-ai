@@ -109,8 +109,8 @@ export interface Incident {
 
 // ── Constants ─────────────────────────────────────────────────────────────────
 
-const AGENT_URL = 'http://localhost:8000'
-const API_URL = '/api'
+const AGENT_URL = import.meta.env.VITE_AGENT_URL || 'http://localhost:8000'
+const API_URL = import.meta.env.VITE_API_URL || '/api'
 
 // ── Agent streaming ───────────────────────────────────────────────────────────
 
