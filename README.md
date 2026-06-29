@@ -1,24 +1,33 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=FactoryFlow%20AI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Manufacturing%20Operations%20Copilot&descSize=18&descAlignY=58&descColor=a78bfa" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,40:0d1117,100:0a0a0a&height=280&text=FACTORYFLOW%20AI&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=The%20machine%20alarm%20at%202%20AM%20used%20to%20mean%2060%20minutes%20of%20chaos.&descSize=15&descAlignY=62&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <div align="center">
-
-[![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Agent-FF6B35?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain-ai.github.io/langgraph/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/panakantinandu/factoryflow-AI?style=social)](https://github.com/panakantinandu/factoryflow-AI/stargazers)
-[![Forks](https://img.shields.io/github/forks/panakantinandu/factoryflow-AI?style=social)](https://github.com/panakantinandu/factoryflow-AI/network/members)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+`⚡ 8 seconds` &nbsp;**·**&nbsp; `not 45 minutes` &nbsp;**·**&nbsp; `not a phone call at 2 AM`
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0d1117?style=for-the-badge" />
+
+<br/><br/>
+
+[![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)&nbsp;
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)&nbsp;
+[![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)&nbsp;
+[![LangGraph](https://img.shields.io/badge/LangGraph-Agent-FF6B35?style=flat-square)](https://langchain-ai.github.io/langgraph/)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)&nbsp;
+[![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+
+<br/>
+
+[![Stars](https://img.shields.io/github/stars/panakantinandu/factoryflow-AI?style=flat-square&color=e2c75a&label=⭐%20Stars)](https://github.com/panakantinandu/factoryflow-AI/stargazers)&nbsp;&nbsp;
+[![Forks](https://img.shields.io/github/forks/panakantinandu/factoryflow-AI?style=flat-square&color=94a3b8&label=🍴%20Forks)](https://github.com/panakantinandu/factoryflow-AI/network/members)&nbsp;&nbsp;
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-6366f1?style=flat-square)](https://factoryflow-ai.vercel.app)
+
+<br/>
 
 </div>
 
